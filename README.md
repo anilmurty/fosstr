@@ -1,16 +1,9 @@
 🧩 [Also available as chrome extension](https://chrome.google.com/webstore/detail/iijibbcdddbhokfepbblglfgdglnccfn)
 
-# Star History
+# Fosstr
 
-[https://star-history.com](https://star-history.com) the missing star history graph of GitHub repos.
+[http://fosstr.io/](https://star-history.com) stats for your next FOSS.
 
-**Sponsor**
-
-<a href="https://bytebase.com/"> <img height="80px" src="https://i.v2ex.co/3VSATzOl.png" /> </a>
-
-[Bytebase.com](https://bytebase.com) is an open source, web-based database schema change and version control tool for teams.
-
-## [As a website](https://star-history.com)
 
 **Support comparing multiple repos**
 
@@ -24,9 +17,9 @@
 
 ## Access Token
 
-[star-history.com](https://star-history.com) uses GitHub API to retrieve repository metadata. When user exceed the rate [limit of unauthenticated requests](https://developer.github.com/v3/#rate-limiting). Star history will need your personal access token to unlimit it.
+[Fosstr](http://fosstr.io/) uses GitHub API to retrieve repository metadata. When user exceed the rate [limit of unauthenticated requests](https://developer.github.com/v3/#rate-limiting). Star history will need your personal access token to unlimit it.
 
-If you don't already have one, [create one](https://github.com/settings/tokens/new), and add to star-history (no scope to your personal data is needed)
+If you don't already have one, [create one](https://github.com/settings/tokens/new), and add to Fosstr (no scope to your personal data is needed)
 
 ## Develop
 
