@@ -1,5 +1,3 @@
-🧩 [Also available as chrome extension](https://chrome.google.com/webstore/detail/iijibbcdddbhokfepbblglfgdglnccfn)
-
 # Fosstr
 
 [http://fosstr.io/](https://star-history.com) stats for your next FOSS.
