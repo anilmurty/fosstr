@@ -12,12 +12,16 @@
   "keywords": [
     "github",
     "star",
-    "history"
+    "history",
+    "foss",
+    "metrics",
+    "open source",
+    "charts"
   ],
   "browserslist": [
-    "since 2017-06"
+    "since 2021-12"
   ],
-  "author": "timqian",
+  "author": "anilmurty",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.1",
