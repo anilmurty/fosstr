@@ -3,7 +3,7 @@
 [http://fosstr.io/](https://star-history.com) stats for your next FOSS.
 
 
-**Support comparing multiple repos**
+**Compares Multiple Repositories**
 
 ![](https://raw.githubusercontent.com/timqian/images/master/star-history.gif)
 
