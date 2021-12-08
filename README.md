@@ -1,6 +1,6 @@
 # Fosstr
 
-[http://fosstr.io/](https://star-history.com) stats for your next FOSS.
+[https://fosstr.io/](https://fosstr.io/) stats for your next FOSS.
 
 
 **Compares Multiple Repositories**
@@ -51,6 +51,8 @@ npm run buildExtension
 ```
 
 ## Updates
+
+- 2021-12-6: Fork and basic updates
 
 - 2019-8-28: use [chart.xkcd](https://github.com/timqian/chart.xkcd) to plot the graph
 
