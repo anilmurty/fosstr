@@ -22,8 +22,8 @@ async function getStarHistory(repo, token) {
 
   /**
    * generate Urls and pageNums
-   * @param {sting} repo - eg: 'timqian/jsCodeStructure'
-   * @return {object} {sampleUrls, pageIndexes} - urls to be fatched(length <=10) and page indexes
+   * @param {string} repo - eg: 'timqian/jsCodeStructure'
+   * @return {object} {sampleUrls, pageIndexes} - urls to be fetched(length <=10) and page indexes
    */
   async function generateUrls(repo) {
 
