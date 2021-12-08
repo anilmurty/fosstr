@@ -6,9 +6,10 @@ let data = [];
 let CSVContent = "";
 let csvData = [];
 let token = localStorage.getItem("star-history-github-token");
-drawAddTokenBtn(token);
+drawAddTokenBtn(token); //add vs edit token string creation
 
-// fetch data accoding to hash
+// fetch data accoding to hash. 
+//location.hash returns the anchor part in the url (everything followin the "#")
 if (location.hash !== "") {
   const repoArr = location.hash.slice(1).split("&");
   repoArr.forEach(async (repo) => {
@@ -24,7 +25,7 @@ async function getRepoNameFetchAndDraw() {
     rawRepoStr += "/"; // make sure url end with /
     repo = /github.com\/(\S*?\/\S*?)[\/#?]/.exec(rawRepoStr)[1];
   } else {
-    repo = rawRepoStr == "" ? "bytebase/star-history" : rawRepoStr;
+    repo = rawRepoStr == "" ? "freeCodeCamp/freeCodeCamp" : rawRepoStr;
   }
 
   // Remove any whitespace. This usually happens when some UI display "org / repo" instead of "org/repo".
